@@ -1,0 +1,4 @@
+streamlit
+yfinance
+langchain
+langchain-google-genai
